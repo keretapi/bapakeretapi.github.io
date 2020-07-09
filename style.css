@@ -1,0 +1,39 @@
+p, h1,h2, h3 ul, li{
+  font-family:sans-serif;
+
+}
+
+a {
+  color: blue;
+}
+
+h1{
+  text-align: left;
+  font-size: 70px;
+}
+h2{
+  font-size: 50px;
+}
+
+.table_image{
+
+  max-height: 200px;
+}
+
+.main_image{
+  max-height: 300px
+}
+.quote{
+  font-family: sans-serif;
+  font-size: 30px;
+  font-style: italic;
+}
+.table_header{
+    font-size: 35px;
+    text-align: center;
+    font-weight: lighter;
+}
+footer{
+  font-family: sans-serif;
+  text-align: center;
+}
